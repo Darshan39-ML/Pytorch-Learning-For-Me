@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 non-push
 git_ssh.txt
+myenv/
